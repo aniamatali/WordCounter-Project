@@ -15,7 +15,7 @@ namespace Find.Controllers
     [HttpPost("/project/results")]
     public ActionResult Results()
     {
-      RepeatCounter newCount = new RepeatCounter (Request.Form["inputOne"], Request.Form["inputTwo"]);
+      RepeatCounter newCount = new RepeatCounter (Request.Form["inputWord"], Request.Form["inputSentence"]);
       return View (newCount);
     }
   }

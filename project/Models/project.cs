@@ -17,8 +17,8 @@ namespace WordCounter.Models
     public int Counts()
     {
       int Counter = 0;
-      string word = _inputWord;
-      string sentence = _inputSentence;
+      string word = _inputWord.ToLower();
+      string sentence = _inputSentence.ToLower();
 
 
       string [] splitSentence = sentence.Split();
