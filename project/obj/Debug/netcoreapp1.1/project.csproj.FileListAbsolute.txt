@@ -6,3 +6,12 @@
 /Users/Guest/Desktop/SoloProject6/project/bin/Debug/netcoreapp1.1/project.pdb
 /Users/Guest/Desktop/SoloProject6/project/obj/Debug/netcoreapp1.1/project.dll
 /Users/Guest/Desktop/SoloProject6/project/obj/Debug/netcoreapp1.1/project.pdb
+C:\Users\Isaac\desktop\wordcounter-project\project\bin\Debug\netcoreapp1.1\project.deps.json
+C:\Users\Isaac\desktop\wordcounter-project\project\bin\Debug\netcoreapp1.1\project.runtimeconfig.json
+C:\Users\Isaac\desktop\wordcounter-project\project\bin\Debug\netcoreapp1.1\project.runtimeconfig.dev.json
+C:\Users\Isaac\desktop\wordcounter-project\project\bin\Debug\netcoreapp1.1\project.dll
+C:\Users\Isaac\desktop\wordcounter-project\project\bin\Debug\netcoreapp1.1\project.pdb
+C:\Users\Isaac\desktop\wordcounter-project\project\obj\Debug\netcoreapp1.1\project.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\desktop\wordcounter-project\project\obj\Debug\netcoreapp1.1\project.AssemblyInfo.cs
+C:\Users\Isaac\desktop\wordcounter-project\project\obj\Debug\netcoreapp1.1\project.dll
+C:\Users\Isaac\desktop\wordcounter-project\project\obj\Debug\netcoreapp1.1\project.pdb
