@@ -14,6 +14,16 @@ namespace WordCounter.Models
       _inputSentence = inputSentence;
     }
 
+    public string GetSentence()
+    {
+      return _inputSentence;
+    }
+
+    public string GetWord()
+    {
+      return _inputWord;
+    }
+
     public int Counts()
     {
       int Counter = 0;
