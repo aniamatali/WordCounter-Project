@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.tests.deps.json
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.tests.runtimeconfig.json
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/SoloProject6/project.tests/obj/Debug/netcoreapp1.1/project.tests.AssemblyInfo.cs
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.tests.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.tests.pdb
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/bin/Debug/netcoreapp1.1/project.pdb
+/Users/Guest/Desktop/SoloProject6/project.tests/obj/Debug/netcoreapp1.1/project.tests.dll
+/Users/Guest/Desktop/SoloProject6/project.tests/obj/Debug/netcoreapp1.1/project.tests.pdb

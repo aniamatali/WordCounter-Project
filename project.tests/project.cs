@@ -11,26 +11,29 @@ namespace WordCounter.Tests
     [TestMethod]
     public void CountRepeats_DoesNotAppearInSentence_0()
     {
-
+      RepeatCounter newCount = new RepeatCounter("a", "bb");
+      int expected = 0;
+      int actual = newCount.Counts();
+      Assert.AreEqual(expected, actual);
     }
 
-    [TestMethod]
-    public void CountRepeats_appearsOnce()
-    {
-
-    }
-
-    [TestMethod]
-    public void CountRepeats_appearsTwice()
-    {
-
-    }
-
-    [TestMethod]
-    public void CountRepeats_Appears_Thrice_withCaps()
-    {
-
-    }
+    // [TestMethod]
+    // public void appearsOnce()
+    // {
+    //
+    // }
+    //
+    // [TestMethod]
+    // public void appearsTwice()
+    // {
+    //
+    // }
+    //
+    // [TestMethod]
+    // public void Thrice_withCaps()
+    // {
+    //
+    // }
 
   }
 }
