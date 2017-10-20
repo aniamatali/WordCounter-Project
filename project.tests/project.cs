@@ -35,11 +35,14 @@ namespace WordCounter.Tests
       Assert.AreEqual(expected, actual);
     }
 
-    // [TestMethod]
-    // public void Thrice_withCaps()
-    // {
-    //
-    // }
+    [TestMethod]
+    public void Thrice_withCaps()
+    {
+      RepeatCounter newCount = new RepeatCounter("A", "bb A a A bA bbAa AAaa");
+      int expected = 3;
+      int actual = newCount.Counts();
+      Assert.AreEqual(expected, actual);
+    }
 
   }
 }
