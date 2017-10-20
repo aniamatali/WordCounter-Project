@@ -17,11 +17,14 @@ namespace WordCounter.Tests
       Assert.AreEqual(expected, actual);
     }
 
-    // [TestMethod]
-    // public void appearsOnce()
-    // {
-    //
-    // }
+    [TestMethod]
+    public void appearsOnce()
+    {
+      RepeatCounter newCount = new RepeatCounter("a", "bb a");
+      int expected = 1;
+      int actual = newCount.Counts();
+      Assert.AreEqual(expected, actual);
+    }
     //
     // [TestMethod]
     // public void appearsTwice()
