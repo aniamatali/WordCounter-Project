@@ -1,15 +1,29 @@
-<h1>Word Counter</h1>
+@{
+  Layout = "_Layout";
+}
 
+<div class="row">
+<div class="col-md-12">
+<h1>Word Counter</h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
 <form action="/project/results" method="post">
   <label for="inputWord">Enter a word.</label>
   <input name="inputWord" class="form-control" id="inputWord">
-  <br>
-  <br>
+</div>
+<div class="col-md-6">
   <label for="inputSentence">Enter a sentence.</label>
   <input name="inputSentence" class="form-control" id="inputSentence">
-  <br>
-  <br>
-
-  <button type="submit" class="btn btn-success">Go</button>
-
+</div>
+</div>
+<div class="row">
+<div class="col-md-2">
+  <button type="submit" class="btn btn-danger">Go</button>
+</div>
+<div class="col-md-10">
+  <img src="images/Aisaac01.png" width="150px">
+</div>
+</div>
 </form>
