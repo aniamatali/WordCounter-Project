@@ -25,13 +25,16 @@ namespace WordCounter.Tests
       int actual = newCount.Counts();
       Assert.AreEqual(expected, actual);
     }
-    //
-    // [TestMethod]
-    // public void appearsTwice()
-    // {
-    //
-    // }
-    //
+
+    [TestMethod]
+    public void appearsTwice()
+    {
+      RepeatCounter newCount = new RepeatCounter("a", "bb a a");
+      int expected = 2;
+      int actual = newCount.Counts();
+      Assert.AreEqual(expected, actual);
+    }
+
     // [TestMethod]
     // public void Thrice_withCaps()
     // {
